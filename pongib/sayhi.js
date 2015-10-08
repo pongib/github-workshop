@@ -1,0 +1,3 @@
+sayhi = {
+  msg: 'hello github'
+}
