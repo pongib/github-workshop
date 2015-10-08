@@ -1,4 +1,3 @@
 sayhi = {
-  msg: 'hello github',
-  name: 'pongib'
+  msg: 'hello github'
 }
